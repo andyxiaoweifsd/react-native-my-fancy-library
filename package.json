@@ -1,6 +1,6 @@
 {
-  "name": "react-native-my-fancy-library",
-  "version": "1.0.0",
+  "name": "react-native-my-fancy-library-zxw",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "",
   "license": "",
   "peerDependencies": {
-    "react-native": "^0.41.2",
+    "react-native": "0.62.2",
     "react-native-windows": "0.41.0-rc.1"
   }
 }
